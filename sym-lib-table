@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TUSB8042AIRGCR")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/symbols/TUSB8042AIRGCR/TUSB8042AIRGCR.kicad_sym")(options "")(descr ""))
+)
